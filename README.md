@@ -1,5 +1,5 @@
 # Clicker
-Description:
+#Description:
     This is a bare bones version of a clicker game made in python
     using the Tkinter modules among others.
 
@@ -8,7 +8,7 @@ Description:
 
     Creator, UselessBullets
 
-Changelog:
+#Changelog:
     5.1.0 (2021-17-3)
         -dynamic upgrade button creation
         -removed empty upgrade buttons
