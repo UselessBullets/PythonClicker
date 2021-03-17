@@ -1,0 +1,11 @@
+[
+    999999919.0,
+    1,
+    0,
+    "[{\"py/object\": \"ClickerEngine.upgrade\", \"name\": \"Gift\", \"description\": \"I wanted to test if this would work\", \"price\": -100, \"upgradeType\": 1, \"multiplier\": 1}, {\"py/object\": \"ClickerEngine.upgrade\", \"name\": \"Auto Upgrade (1)\", \"description\": \"Each auto does double CPS.\", \"price\": 10, \"upgradeType\": 1, \"multiplier\": 2}, {\"py/object\": \"ClickerEngine.upgrade\", \"name\": \"Power Upgrade (1)\", \"description\": \"Doubles the power of clicks.\", \"price\": 20, \"upgradeType\": 0, \"multiplier\": 2}, {\"py/object\": \"ClickerEngine.upgrade\", \"name\": \"Auto Upgrade (2)\", \"description\": \"Each auto does double CPS.\", \"price\": 50, \"upgradeType\": 1, \"multiplier\": 2}, {\"py/object\": \"ClickerEngine.upgrade\", \"name\": \"Auto Upgrade (3)\", \"description\": \"Each auto does double CPS.\", \"price\": 100, \"upgradeType\": 1, \"multiplier\": 2}]",
+    "[{\"py/object\": \"ClickerEngine.upgrade\", \"name\": \"Power Upgrade (2)\", \"description\": \"Triples the power of clicks.\", \"price\": 300, \"upgradeType\": 0, \"multiplier\": 3}, {\"py/object\": \"ClickerEngine.upgrade\", \"name\": \"Auto Upgrade (4)\", \"description\": \"Each auto does quadruple CPS.\", \"price\": 500, \"upgradeType\": 1, \"multiplier\": 4}]",
+    [
+        20.0,
+        80.0
+    ]
+]
