@@ -5,11 +5,9 @@
     using the Tkinter modules among others.
 
     If it tells you that you are missing modules try using install.py 
-    to get missing modules
+    to get the missing modules
 
-    Creator, UselessBullets
-
-## Change log:
+## Change Log Summary:
 
     5.1.0 (2021-17-3)
         -dynamic upgrade button creation
