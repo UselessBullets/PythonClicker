@@ -7,6 +7,14 @@
     If it tells you that you are missing modules try using install.py 
     to get the missing modules
 
+## Credits:
+	
+	cookie.png 
+	Photo by <a href="https://unsplash.com/@picoftasty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mae Mu</a> on <a href="/s/photos/cookie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  	
+  	Gui themes
+  	https://sourceforge.net/projects/tcl-awthemes/
+
 ## Change Log Summary:
 
     5.1.0 (2021-17-3)
