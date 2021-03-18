@@ -51,7 +51,7 @@ s = ttk.Style(root)
 s.theme_use("awdark")
 
 imgCookie = PhotoImage(file = r"./resources/cookie.png")
-Cookieimage = imgCookie.subsample(20,20)
+Cookieimage = imgCookie.subsample(10,10)
 
 #Make frame
 frame = ttk.Frame(root, relief="sunken")
