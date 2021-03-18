@@ -10,7 +10,7 @@
 ## Credits:
 	
 	cookie.png 
-	Photo by <a href="https://unsplash.com/@picoftasty?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mae Mu</a> on <a href="/s/photos/cookie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+	Photo by Mae Mu on unsplash
   	
   	Gui themes
   	https://sourceforge.net/projects/tcl-awthemes/
